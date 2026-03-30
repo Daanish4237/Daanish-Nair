@@ -39,6 +39,12 @@ Testing: Vitest, fast-check
 
 👉 [View Project](https://github.com/Daanish4237)
 
+  Goal Tracking System
+- Track goals and visualize progress using Chart.js  
+- Built with PHP, MySQL, and JavaScript  
+
+👉 [View Project](https://github.com/Daanish4237)
+
 
 🔧 Technical Experience
 - Computer repair (boot issues, Windows errors, hardware fixes)  
